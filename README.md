@@ -11,7 +11,7 @@ Tombol navigasi akan menggulir halaman secara halus ke bagian tertentu ketika di
 -Cara Mengakses
 Klik tombol atau tautan di menu navigasi yang sesuai dengan nama bagian (misalnya, "Kerja Sama", "Ayam", atau "Testimoni") untuk langsung menuju bagian tersebut.
 
-3. Navigasi Halus dengan Anchor Links
+3. Navigasi Halus dengan Anchor Link
 -Deskripsi
 Tautan berbasis anchor (<a href="#...">) akan menggulir halaman secara halus ke elemen tujuan. JavaScript mencegah perilaku default tautan dan menggunakan fungsi scrollToElement untuk efek gulir.
 -Cara Mengakses
