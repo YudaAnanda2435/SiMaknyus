@@ -13,7 +13,7 @@ Klik tombol atau tautan di menu navigasi yang sesuai dengan nama bagian (misalny
 
 3. Navigasi Halus dengan Anchor Link
 -Deskripsi
-Tautan berbasis anchor (<a href="#...">) akan menggulir halaman secara halus ke elemen tujuan. JavaScript mencegah perilaku default tautan dan menggunakan fungsi scrollToElement untuk efek gulir.
+Tautan berbasis anchor akan menggulir halaman secara halus ke elemen tujuan. JavaScript mencegah perilaku default tautan dan menggunakan fungsi scrollToElement untuk efek gulir.
 -Cara Mengakses
 Klik tautan yang memiliki atribut href dengan tanda # (misalnya, #home atau #about) untuk menggulir ke bagian terkait.
 
