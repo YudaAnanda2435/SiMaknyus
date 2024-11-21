@@ -21,7 +21,7 @@ body {
   cursor: pointer;
 }
 
-nav {
+header nav {
   position: fixed;
   background-color: #80c4e9;
   display: flex;
